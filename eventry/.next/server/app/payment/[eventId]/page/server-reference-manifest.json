@@ -1,0 +1,16 @@
+{
+  "node": {
+    "6012aa4f44bd02f1ab16d8fbba9c30e4e7dba48677": {
+      "workers": {
+        "app/payment/[eventId]/page": {
+          "moduleId": "[project]/.next-internal/server/app/payment/[eventId]/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/action/index.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/payment/[eventId]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
